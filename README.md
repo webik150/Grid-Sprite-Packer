@@ -1,6 +1,6 @@
 # Grid Sprite Packer
 
-The packer that sprite really packs uh a grid...
+The packer with UI that sprite really packs uh a grid...
 Free ChatGPT made this.
 
 Automatically resizes selected images to have same max size and then aligns them in a grid with variable padding and max elements per row.
